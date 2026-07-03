@@ -4,6 +4,8 @@
 
 Blood Connect is a web-based blood donation and request management system designed to bridge the gap between blood donors, recipients, hospitals, and blood banks. The platform enables users to quickly search for blood donors, submit blood requests, and improve emergency response during critical situations.
 
+We are a team of 6 people from Mar Baselios College of Engineering and Technology who have built this project for the Smart India Hackathon_2025. 
+
 ---
 
 ## 📌 Features
@@ -195,11 +197,16 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Joseph Benedict**
+**Joseph Benedict, Aparna S, Anna Neena Bright, Aaron Shelley Koshy, R D Sourav, Sooraj Jose George**
 
-- GitHub: https://github.com/josephunited
+- GitHub links:
+-  https://github.com/josephunited
+-  https://github.com/Aparna2116
+-  https://github.com/anna15-del
+-  https://github.com/SoorajGeorge123
+-  https://github.com/RDSOURAV05
 
 ---
 
